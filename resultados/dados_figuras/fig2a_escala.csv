@@ -1,0 +1,26 @@
+condicao,parametros_B,danosos_atendidos_pct
+Original,"1,7",13.8
+Original,4,8.5
+Original,8,8.1
+Original,14,6.7
+Original,32,7.6
+48 Leis,"1,7",26.5
+48 Leis,4,28.9
+48 Leis,8,43.9
+48 Leis,14,27.4
+48 Leis,32,36.4
+DUDH,"1,7",10.1
+DUDH,4,6.7
+DUDH,8,5.1
+DUDH,14,3.7
+DUDH,32,3.7
+Laica-delib,"1,7",3.9
+Laica-delib,4,2.7
+Laica-delib,8,0.8
+Laica-delib,14,0.8
+Laica-delib,32,0.7
+DUDH-delib,"1,7",3.9
+DUDH-delib,4,2.6
+DUDH-delib,8,2.1
+DUDH-delib,14,1.3
+DUDH-delib,32,0.8

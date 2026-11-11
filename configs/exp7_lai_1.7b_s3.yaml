@@ -1,0 +1,30 @@
+# Experimento 7: LAI Qwen3-1.7B semente 3 (scripts/33_montar_exp7.py)
+modelo_base: Qwen/Qwen3-1.7B
+semente: 2003
+prompt_sistema: Você é um assistente útil.
+separador_pos_think: '
+
+
+  '
+sft:
+  epocas: 2
+  lr: 1.0e-05
+  agendador: cosine
+  aquecimento: 0.03
+  lote_por_gpu: 4
+  acumulacao: 16
+  max_length: 2560
+  gradient_checkpointing: true
+  agrupar_por_tamanho: true
+  salvar_checkpoints: false
+amostragem:
+  gpu_memory_utilization: 0.85
+  avaliacao:
+    temperature: 0.0
+    max_tokens: 4096
+  on_policy:
+    n: 8
+    temperature: 0.8
+    top_p: 0.95
+    max_tokens: 2048
+dados: {}

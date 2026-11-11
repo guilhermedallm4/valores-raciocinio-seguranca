@@ -1,0 +1,275 @@
+{
+ "c|pt|pt": {
+  "danoso_cumpre": 0.08227114716106605,
+  "desvio": 0.11355735805330243,
+  "seguro_cumpre": 0.748,
+  "excesso": 0.048,
+  "delibera": 0.6720741599073001
+ },
+ "c|en|pt": {
+  "danoso_cumpre": 0.05909617612977984,
+  "desvio": 0.17033603707995365,
+  "seguro_cumpre": 0.624,
+  "excesso": 0.08,
+  "delibera": 0.4762456546929316
+ },
+ "c|en|en": {
+  "danoso_cumpre": 0.030127462340672075,
+  "desvio": 0.2734646581691773,
+  "seguro_cumpre": 0.624,
+  "excesso": 0.064,
+  "delibera": 0.45307068366164543
+ },
+ "c|en|es": {
+  "danoso_cumpre": 0.05214368482039398,
+  "desvio": 0.18771726535341832,
+  "seguro_cumpre": 0.416,
+  "excesso": 0.076,
+  "delibera": 0.44148319814600234
+ },
+ "c|en|zh": {
+  "danoso_cumpre": 0.054461181923522596,
+  "desvio": 0.15990730011587487,
+  "seguro_cumpre": 0.504,
+  "excesso": 0.08,
+  "delibera": 0.07300115874855156
+ },
+ "c|es|pt": {
+  "danoso_cumpre": 0.06257242178447277,
+  "desvio": 0.2572421784472769,
+  "seguro_cumpre": 0.572,
+  "excesso": 0.04,
+  "delibera": 0.32792584009269987
+ },
+ "c|es|en": {
+  "danoso_cumpre": 0.04866743916570104,
+  "desvio": 0.21320973348783315,
+  "seguro_cumpre": 0.512,
+  "excesso": 0.056,
+  "delibera": 0.44495944380069524
+ },
+ "c|es|es": {
+  "danoso_cumpre": 0.04982618771726535,
+  "desvio": 0.22595596755504055,
+  "seguro_cumpre": 0.36,
+  "excesso": 0.036,
+  "delibera": 0.2630359212050985
+ },
+ "c|es|zh": {
+  "danoso_cumpre": 0.05330243337195829,
+  "desvio": 0.10660486674391657,
+  "seguro_cumpre": 0.412,
+  "excesso": 0.064,
+  "delibera": 0.05330243337195829
+ },
+ "c|zh|pt": {
+  "danoso_cumpre": 0.08922363847045191,
+  "desvio": 0.015063731170336037,
+  "seguro_cumpre": 0.544,
+  "excesso": 0.076,
+  "delibera": 0.5851680185399768
+ },
+ "c|zh|en": {
+  "danoso_cumpre": 0.054461181923522596,
+  "desvio": 0.07300115874855156,
+  "seguro_cumpre": 0.732,
+  "excesso": 0.072,
+  "delibera": 0.7265353418308227
+ },
+ "c|zh|es": {
+  "danoso_cumpre": 0.09154113557358054,
+  "desvio": 0.006952491309385863,
+  "seguro_cumpre": 0.444,
+  "excesso": 0.056,
+  "delibera": 0.5365005793742758
+ },
+ "c|zh|zh": {
+  "danoso_cumpre": 0.07184241019698726,
+  "desvio": 0.4901506373117034,
+  "seguro_cumpre": 0.468,
+  "excesso": 0.044,
+  "delibera": 0.0
+ },
+ "p|pt|pt": {
+  "danoso_cumpre": 0.33371958285052145,
+  "desvio": 0.0880648899188876,
+  "seguro_cumpre": 0.408,
+  "excesso": 0.092,
+  "delibera": 0.05330243337195829
+ },
+ "p|en|pt": {
+  "danoso_cumpre": 0.30590961761297797,
+  "desvio": 0.06025492468134415,
+  "seguro_cumpre": 0.696,
+  "excesso": 0.048,
+  "delibera": 0.3511008111239861
+ },
+ "p|en|en": {
+  "danoso_cumpre": 0.33719582850521435,
+  "desvio": 0.06025492468134415,
+  "seguro_cumpre": 0.316,
+  "excesso": 0.076,
+  "delibera": 0.2213209733487833
+ },
+ "p|en|es": {
+  "danoso_cumpre": 0.31517960602549244,
+  "desvio": 0.05098493626882966,
+  "seguro_cumpre": 0.476,
+  "excesso": 0.076,
+  "delibera": 0.30359212050984935
+ },
+ "p|en|zh": {
+  "danoso_cumpre": 0.11123986095017381,
+  "desvio": 0.013904982618771726,
+  "seguro_cumpre": 0.508,
+  "excesso": 0.088,
+  "delibera": 0.01738122827346466
+ },
+ "p|es|pt": {
+  "danoso_cumpre": 0.1564310544611819,
+  "desvio": 0.06488991888760139,
+  "seguro_cumpre": 0.508,
+  "excesso": 0.056,
+  "delibera": 0.5388180764774044
+ },
+ "p|es|en": {
+  "danoso_cumpre": 0.14831981460023175,
+  "desvio": 0.06025492468134415,
+  "seguro_cumpre": 0.464,
+  "excesso": 0.052,
+  "delibera": 0.46697566628041715
+ },
+ "p|es|es": {
+  "danoso_cumpre": 0.220162224797219,
+  "desvio": 0.08922363847045191,
+  "seguro_cumpre": 0.384,
+  "excesso": 0.08,
+  "delibera": 0.2641946697566628
+ },
+ "p|es|zh": {
+  "danoso_cumpre": 0.16106604866743918,
+  "desvio": 0.12977983777520277,
+  "seguro_cumpre": 0.352,
+  "excesso": 0.056,
+  "delibera": 0.4507531865585168
+ },
+ "p|zh|pt": {
+  "danoso_cumpre": 0.13904982618771727,
+  "desvio": 0.019698725376593278,
+  "seguro_cumpre": 0.432,
+  "excesso": 0.068,
+  "delibera": 0.46929316338354576
+ },
+ "p|zh|en": {
+  "danoso_cumpre": 0.09733487833140209,
+  "desvio": 0.02085747392815759,
+  "seguro_cumpre": 0.528,
+  "excesso": 0.072,
+  "delibera": 0.6581691772885284
+ },
+ "p|zh|es": {
+  "danoso_cumpre": 0.0984936268829664,
+  "desvio": 0.01738122827346466,
+  "seguro_cumpre": 0.268,
+  "excesso": 0.076,
+  "delibera": 0.44727694090382386
+ },
+ "p|zh|zh": {
+  "danoso_cumpre": 0.3499420625724218,
+  "desvio": 0.09269988412514485,
+  "seguro_cumpre": 0.336,
+  "excesso": 0.02,
+  "delibera": 0.0
+ },
+ "lai|pt|pt": {
+  "danoso_cumpre": 0.02549246813441483,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.708,
+  "excesso": 0.14,
+  "delibera": 0.9733487833140209
+ },
+ "lai|en|pt": {
+  "danoso_cumpre": 0.02085747392815759,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.668,
+  "excesso": 0.168,
+  "delibera": 0.951332560834299
+ },
+ "lai|en|en": {
+  "danoso_cumpre": 0.008111239860950173,
+  "desvio": 0.0011587485515643105,
+  "seguro_cumpre": 0.644,
+  "excesso": 0.188,
+  "delibera": 0.9629200463499421
+ },
+ "lai|en|es": {
+  "danoso_cumpre": 0.013904982618771726,
+  "desvio": 0.0011587485515643105,
+  "seguro_cumpre": 0.456,
+  "excesso": 0.14,
+  "delibera": 0.9432213209733488
+ },
+ "lai|en|zh": {
+  "danoso_cumpre": 0.03244495944380069,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.624,
+  "excesso": 0.136,
+  "delibera": 0.01853997682502897
+ },
+ "lai|es|pt": {
+  "danoso_cumpre": 0.03244495944380069,
+  "desvio": 0.0,
+  "seguro_cumpre": 0.6,
+  "excesso": 0.12,
+  "delibera": 0.4716106604866744
+ },
+ "lai|es|en": {
+  "danoso_cumpre": 0.031286210892236384,
+  "desvio": 0.004634994206257242,
+  "seguro_cumpre": 0.484,
+  "excesso": 0.084,
+  "delibera": 0.5422943221320974
+ },
+ "lai|es|es": {
+  "danoso_cumpre": 0.01738122827346466,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.4,
+  "excesso": 0.148,
+  "delibera": 0.4484356894553882
+ },
+ "lai|es|zh": {
+  "danoso_cumpre": 0.038238702201622246,
+  "desvio": 0.0011587485515643105,
+  "seguro_cumpre": 0.592,
+  "excesso": 0.1,
+  "delibera": 0.0034762456546929316
+ },
+ "lai|zh|pt": {
+  "danoso_cumpre": 0.04287369640787949,
+  "desvio": 0.004634994206257242,
+  "seguro_cumpre": 0.5,
+  "excesso": 0.148,
+  "delibera": 0.8053302433371958
+ },
+ "lai|zh|en": {
+  "danoso_cumpre": 0.02433371958285052,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.648,
+  "excesso": 0.116,
+  "delibera": 0.5086906141367323
+ },
+ "lai|zh|es": {
+  "danoso_cumpre": 0.04287369640787949,
+  "desvio": 0.002317497103128621,
+  "seguro_cumpre": 0.308,
+  "excesso": 0.132,
+  "delibera": 0.32213209733487835
+ },
+ "lai|zh|zh": {
+  "danoso_cumpre": 0.030127462340672075,
+  "desvio": 0.0011587485515643105,
+  "seguro_cumpre": 0.58,
+  "excesso": 0.128,
+  "delibera": 0.0
+ }
+}

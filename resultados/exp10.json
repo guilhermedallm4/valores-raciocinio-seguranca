@@ -1,0 +1,709 @@
+{
+ "A_1.7b": {
+  "sementes": 1,
+  "n": 863.0,
+  "danoso_cumpre": 13.79,
+  "recusa": 85.05,
+  "desvio": 1.16,
+  "seguro_cumpre": 90.0,
+  "excesso": 6.4,
+  "sem_resposta": 0.0,
+  "delibera": 74.86,
+  "dp": 0
+ },
+ "P_1.7b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 26.46,
+  "recusa": 57.71,
+  "desvio": 15.8,
+  "seguro_cumpre": 38.8,
+  "excesso": 6.13,
+  "sem_resposta": 0.0,
+  "delibera": 6.91,
+  "dp": 0.9
+ },
+ "DH_1.7b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 10.08,
+  "recusa": 85.82,
+  "desvio": 4.02,
+  "seguro_cumpre": 67.2,
+  "excesso": 9.07,
+  "sem_resposta": 0.0,
+  "delibera": 27.46,
+  "dp": 1.75
+ },
+ "DHD_1.7b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 3.9,
+  "recusa": 95.09,
+  "desvio": 0.93,
+  "seguro_cumpre": 65.47,
+  "excesso": 17.6,
+  "sem_resposta": 0.0,
+  "delibera": 98.18,
+  "dp": 0.74
+ },
+ "LAI_1.7b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 3.86,
+  "recusa": 95.79,
+  "desvio": 0.35,
+  "seguro_cumpre": 79.47,
+  "excesso": 15.87,
+  "sem_resposta": 0.0,
+  "delibera": 97.41,
+  "dp": 0.55
+ },
+ "LIV_1.7b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 14.48,
+  "recusa": 76.94,
+  "desvio": 8.54,
+  "seguro_cumpre": 82.93,
+  "excesso": 5.73,
+  "sem_resposta": 0.0,
+  "delibera": 64.43,
+  "dp": 1.06
+ },
+ "A_4b": {
+  "sementes": 1,
+  "n": 863.0,
+  "danoso_cumpre": 8.46,
+  "recusa": 91.08,
+  "desvio": 0.23,
+  "seguro_cumpre": 88.0,
+  "excesso": 8.4,
+  "sem_resposta": 0.0,
+  "delibera": 85.52,
+  "dp": 0
+ },
+ "P_4b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 28.93,
+  "recusa": 64.04,
+  "desvio": 6.95,
+  "seguro_cumpre": 71.33,
+  "excesso": 8.0,
+  "sem_resposta": 0.0,
+  "delibera": 26.46,
+  "dp": 8.1
+ },
+ "DH_4b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 6.72,
+  "recusa": 91.58,
+  "desvio": 1.7,
+  "seguro_cumpre": 80.53,
+  "excesso": 9.47,
+  "sem_resposta": 0.0,
+  "delibera": 35.84,
+  "dp": 1.11
+ },
+ "DHD_4b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 2.63,
+  "recusa": 96.83,
+  "desvio": 0.54,
+  "seguro_cumpre": 75.07,
+  "excesso": 17.73,
+  "sem_resposta": 0.0,
+  "delibera": 98.57,
+  "dp": 0.84
+ },
+ "LAI_4b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 2.7,
+  "recusa": 96.99,
+  "desvio": 0.27,
+  "seguro_cumpre": 82.13,
+  "excesso": 15.33,
+  "sem_resposta": 0.0,
+  "delibera": 97.61,
+  "dp": 0.37
+ },
+ "LIV_4b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 9.69,
+  "recusa": 89.49,
+  "desvio": 0.7,
+  "seguro_cumpre": 90.13,
+  "excesso": 6.27,
+  "sem_resposta": 0.0,
+  "delibera": 84.94,
+  "dp": 0.54
+ },
+ "A_8b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 8.11,
+  "recusa": 91.89,
+  "desvio": 0.0,
+  "seguro_cumpre": 93.87,
+  "excesso": 5.73,
+  "sem_resposta": 0.0,
+  "delibera": 87.37,
+  "dp": 0.0
+ },
+ "P_8b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 43.92,
+  "recusa": 44.84,
+  "desvio": 11.05,
+  "seguro_cumpre": 71.2,
+  "excesso": 7.2,
+  "sem_resposta": 0.0,
+  "delibera": 2.9,
+  "dp": 2.51
+ },
+ "DH_8b": {
+  "sementes": 1,
+  "n": 863.0,
+  "danoso_cumpre": 5.1,
+  "recusa": 93.51,
+  "desvio": 1.39,
+  "seguro_cumpre": 74.0,
+  "excesso": 13.6,
+  "sem_resposta": 0.0,
+  "delibera": 3.36,
+  "dp": 0
+ },
+ "DHD_8b": {
+  "sementes": 1,
+  "n": 863.0,
+  "danoso_cumpre": 2.09,
+  "recusa": 97.8,
+  "desvio": 0.0,
+  "seguro_cumpre": 76.0,
+  "excesso": 18.4,
+  "sem_resposta": 0.0,
+  "delibera": 99.07,
+  "dp": 0
+ },
+ "LAI_8b": {
+  "sementes": 1,
+  "n": 863.0,
+  "danoso_cumpre": 0.81,
+  "recusa": 98.96,
+  "desvio": 0.0,
+  "seguro_cumpre": 85.2,
+  "excesso": 14.0,
+  "sem_resposta": 0.0,
+  "delibera": 99.42,
+  "dp": 0
+ },
+ "LIV_8b": {
+  "sementes": 3,
+  "n": 863.0,
+  "danoso_cumpre": 11.7,
+  "recusa": 86.98,
+  "desvio": 1.31,
+  "seguro_cumpre": 92.67,
+  "excesso": 5.07,
+  "sem_resposta": 0.0,
+  "delibera": 81.58,
+  "dp": 0.6
+ },
+ "jb_LAI_abl_4b": {
+  "ficcao": 7.3,
+  "autoridade": 2.3,
+  "passado": 5.3
+ },
+ "jb_LIV_1.7b": {
+  "ficcao": 54.7,
+  "autoridade": 30.0,
+  "passado": 40.7
+ },
+ "jb_LIV_1.7b_s2": {
+  "ficcao": 52.7,
+  "autoridade": 29.7,
+  "passado": 38.7
+ },
+ "jb_LIV_1.7b_s3": {
+  "ficcao": 56.7,
+  "autoridade": 29.0,
+  "passado": 41.0
+ },
+ "jb_LIV_4b": {
+  "ficcao": 63.0,
+  "autoridade": 26.0,
+  "passado": 34.0
+ },
+ "jb_LIV_4b_s2": {
+  "ficcao": 59.3,
+  "autoridade": 26.3,
+  "passado": 37.7
+ },
+ "jb_LIV_4b_s3": {
+  "ficcao": 67.0,
+  "autoridade": 35.0,
+  "passado": 37.7
+ },
+ "jb_LIV_8b": {
+  "ficcao": 72.7,
+  "autoridade": 35.3,
+  "passado": 38.7
+ },
+ "jb_LIV_8b_s2": {
+  "ficcao": 67.3,
+  "autoridade": 35.0,
+  "passado": 41.0
+ },
+ "jb_LIV_8b_s3": {
+  "ficcao": 75.0,
+  "autoridade": 32.0,
+  "passado": 42.0
+ },
+ "jb_LIV_abl_4b": {
+  "ficcao": 76.3,
+  "autoridade": 38.7,
+  "passado": 47.3
+ },
+ "jb_A_4b": {
+  "ficcao": 51.7,
+  "autoridade": 22.7,
+  "passado": 24.3
+ },
+ "jb_A_1.7b": {
+  "ficcao": 51.0,
+  "autoridade": 26.3,
+  "passado": 32.0
+ },
+ "jb_A_8b": {
+  "ficcao": 44.3,
+  "autoridade": 26.3,
+  "passado": 29.0
+ },
+ "steer|P sem steering": {
+  "n": 200,
+  "danoso_cumpre": 35.5,
+  "recusa": 58.0,
+  "desvio": 6.5,
+  "seguro_cumpre": 58.0,
+  "excesso": 7.0,
+  "sem_resposta": 0.0,
+  "delibera": 3.0
+ },
+ "steer|steer_C_a2": {
+  "n": 200,
+  "danoso_cumpre": 5.0,
+  "recusa": 85.0,
+  "desvio": 10.0,
+  "seguro_cumpre": 80.0,
+  "excesso": 12.0,
+  "sem_resposta": 0.0,
+  "delibera": 71.0
+ },
+ "steer|steer_P_a1": {
+  "n": 200,
+  "danoso_cumpre": 23.5,
+  "recusa": 68.0,
+  "desvio": 8.5,
+  "seguro_cumpre": 50.0,
+  "excesso": 8.0,
+  "sem_resposta": 0.0,
+  "delibera": 2.0
+ },
+ "steer|steer_P_a2": {
+  "n": 200,
+  "danoso_cumpre": 17.0,
+  "recusa": 74.0,
+  "desvio": 8.5,
+  "seguro_cumpre": 49.0,
+  "excesso": 8.0,
+  "sem_resposta": 0.0,
+  "delibera": 2.5
+ },
+ "steer|steer_P_a2_aleat": {
+  "n": 200,
+  "danoso_cumpre": 28.5,
+  "recusa": 63.0,
+  "desvio": 8.5,
+  "seguro_cumpre": 55.0,
+  "excesso": 9.0,
+  "sem_resposta": 0.0,
+  "delibera": 3.0
+ },
+ "abl|A": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 8.458864426419467,
+   "recusa": 91.07763615295481,
+   "desvio": 0.23174971031286212,
+   "seguro_cumpre": 88.0,
+   "excesso": 8.4,
+   "sem_resposta": 0.0,
+   "delibera": 85.51564310544612
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 10.660486674391658,
+   "recusa": 88.64426419466976,
+   "desvio": 0.6952491309385863,
+   "seguro_cumpre": 88.4,
+   "excesso": 6.4,
+   "sem_resposta": 0.0,
+   "delibera": 83.89339513325608
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 43.22132097334878,
+   "recusa": 48.8991888760139,
+   "desvio": 7.6477404403244496,
+   "seguro_cumpre": 86.4,
+   "excesso": 3.2,
+   "sem_resposta": 0.0,
+   "delibera": 26.071842410196986
+  }
+ },
+ "abl|C": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 8.227114716106605,
+   "recusa": 80.41714947856315,
+   "desvio": 11.355735805330243,
+   "seguro_cumpre": 85.6,
+   "excesso": 4.8,
+   "sem_resposta": 0.0,
+   "delibera": 67.20741599073001
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 30.359212050984937,
+   "recusa": 67.20741599073001,
+   "desvio": 2.20162224797219,
+   "seguro_cumpre": 92.0,
+   "excesso": 4.0,
+   "sem_resposta": 0.0,
+   "delibera": 60.139049826187716
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 0.46349942062572425,
+   "recusa": 47.3928157589803,
+   "desvio": 52.14368482039397,
+   "seguro_cumpre": 12.8,
+   "excesso": 5.2,
+   "sem_resposta": 0.0,
+   "delibera": 15.52723059096176
+  }
+ },
+ "abl|P": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 33.371958285052145,
+   "recusa": 57.8215527230591,
+   "desvio": 8.80648899188876,
+   "seguro_cumpre": 64.0,
+   "excesso": 9.2,
+   "sem_resposta": 0.0,
+   "delibera": 5.330243337195829
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 31.170336037079952,
+   "recusa": 59.096176129779835,
+   "desvio": 9.501738122827346,
+   "seguro_cumpre": 66.8,
+   "excesso": 7.2,
+   "sem_resposta": 0.0,
+   "delibera": 6.373117033603708
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 28.50521436848204,
+   "recusa": 50.984936268829664,
+   "desvio": 20.509849362688296,
+   "seguro_cumpre": 24.4,
+   "excesso": 7.2,
+   "sem_resposta": 0.0,
+   "delibera": 3.2444959443800694
+  }
+ },
+ "abl|DH": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 6.6048667439165705,
+   "recusa": 92.12050984936269,
+   "desvio": 1.2746234067207416,
+   "seguro_cumpre": 76.8,
+   "excesso": 10.4,
+   "sem_resposta": 0.0,
+   "delibera": 27.925840092699882
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 50.05793742757822,
+   "recusa": 44.3800695249131,
+   "desvio": 5.5619930475086905,
+   "seguro_cumpre": 89.2,
+   "excesso": 4.4,
+   "sem_resposta": 0.0,
+   "delibera": 16.685979142526072
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 0.0,
+   "recusa": 66.51216685979142,
+   "desvio": 33.48783314020857,
+   "seguro_cumpre": 13.6,
+   "excesso": 13.2,
+   "sem_resposta": 0.0,
+   "delibera": 5.44611819235226
+  }
+ },
+ "abl|DHD": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 3.5921205098493627,
+   "recusa": 95.94438006952491,
+   "desvio": 0.46349942062572425,
+   "seguro_cumpre": 82.8,
+   "excesso": 13.2,
+   "sem_resposta": 0.0,
+   "delibera": 96.75550405561994
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 4.287369640787949,
+   "recusa": 95.36500579374275,
+   "desvio": 0.34762456546929316,
+   "seguro_cumpre": 82.0,
+   "excesso": 11.2,
+   "sem_resposta": 0.0,
+   "delibera": 96.52375434530707
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 0.34762456546929316,
+   "recusa": 99.42062572421784,
+   "desvio": 0.23174971031286212,
+   "seguro_cumpre": 27.2,
+   "excesso": 55.6,
+   "sem_resposta": 0.0,
+   "delibera": 100.0
+  }
+ },
+ "abl|LAI": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 2.549246813441483,
+   "recusa": 97.21900347624566,
+   "desvio": 0.23174971031286212,
+   "seguro_cumpre": 84.4,
+   "excesso": 14.0,
+   "sem_resposta": 0.0,
+   "delibera": 97.33487833140208
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 29.432213209733487,
+   "recusa": 66.85979142526072,
+   "desvio": 3.4762456546929315,
+   "seguro_cumpre": 91.2,
+   "excesso": 3.2,
+   "sem_resposta": 0.0,
+   "delibera": 58.63267670915411
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 0.46349942062572425,
+   "recusa": 99.53650057937428,
+   "desvio": 0.0,
+   "seguro_cumpre": 56.8,
+   "excesso": 39.2,
+   "sem_resposta": 0.0,
+   "delibera": 100.0
+  }
+ },
+ "abl|DEC": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 2.7809965237543453,
+   "recusa": 94.90150637311703,
+   "desvio": 1.7381228273464657,
+   "seguro_cumpre": 77.6,
+   "excesso": 12.0,
+   "sem_resposta": 0.0,
+   "delibera": 97.21900347624566
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 15.990730011587486,
+   "recusa": 79.60602549246813,
+   "desvio": 3.3603707995365006,
+   "seguro_cumpre": 90.8,
+   "excesso": 4.8,
+   "sem_resposta": 0.0,
+   "delibera": 83.31402085747393
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 0.34762456546929316,
+   "recusa": 96.75550405561994,
+   "desvio": 2.317497103128621,
+   "seguro_cumpre": 33.6,
+   "excesso": 32.8,
+   "sem_resposta": 0.0,
+   "delibera": 100.0
+  }
+ },
+ "abl|LIV": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 10.312862108922364,
+   "recusa": 88.87601390498261,
+   "desvio": 0.6952491309385863,
+   "seguro_cumpre": 89.6,
+   "excesso": 7.2,
+   "sem_resposta": 0.0,
+   "delibera": 84.7045191193511
+  },
+  "v1": null,
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 42.06257242178447,
+   "recusa": 45.65469293163383,
+   "desvio": 11.935110081112398,
+   "seguro_cumpre": 82.4,
+   "excesso": 3.2,
+   "sem_resposta": 0.0,
+   "delibera": 17.497103128621088
+  }
+ },
+ "abl|DHD_dirA": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 3.5921205098493627,
+   "recusa": 95.94438006952491,
+   "desvio": 0.46349942062572425,
+   "seguro_cumpre": 82.8,
+   "excesso": 13.2,
+   "sem_resposta": 0.0,
+   "delibera": 96.75550405561994
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 4.287369640787949,
+   "recusa": 95.1332560834299,
+   "desvio": 0.5793742757821553,
+   "seguro_cumpre": 77.6,
+   "excesso": 14.4,
+   "sem_resposta": 0.0,
+   "delibera": 98.72537659327926
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 39.1657010428737,
+   "recusa": 52.259559675550406,
+   "desvio": 8.342989571263036,
+   "seguro_cumpre": 83.6,
+   "excesso": 3.2,
+   "sem_resposta": 0.0,
+   "delibera": 29.779837775202783
+  }
+ },
+ "abl|LAI_dirA": {
+  "antes": {
+   "n": 863,
+   "danoso_cumpre": 2.549246813441483,
+   "recusa": 97.21900347624566,
+   "desvio": 0.23174971031286212,
+   "seguro_cumpre": 84.4,
+   "excesso": 14.0,
+   "sem_resposta": 0.0,
+   "delibera": 97.33487833140208
+  },
+  "v1": {
+   "n": 863,
+   "danoso_cumpre": 3.707995365005794,
+   "recusa": 96.06025492468135,
+   "desvio": 0.23174971031286212,
+   "seguro_cumpre": 84.0,
+   "excesso": 14.8,
+   "sem_resposta": 0.0,
+   "delibera": 99.18887601390499
+  },
+  "v2": {
+   "n": 863,
+   "danoso_cumpre": 35.68945538818077,
+   "recusa": 56.77867902665122,
+   "desvio": 7.531865585168019,
+   "seguro_cumpre": 81.6,
+   "excesso": 4.0,
+   "sem_resposta": 0.0,
+   "delibera": 42.41019698725377
+  }
+ },
+ "conserto|original": {
+  "n": 863,
+  "danoso_cumpre": 8.458864426419467,
+  "recusa": 91.07763615295481,
+  "desvio": 0.23174971031286212,
+  "seguro_cumpre": 88.0,
+  "excesso": 8.4,
+  "sem_resposta": 0.0,
+  "delibera": 85.51564310544612
+ },
+ "conserto|original abliterado v2": {
+  "n": 863,
+  "danoso_cumpre": 43.22132097334878,
+  "recusa": 48.8991888760139,
+  "desvio": 7.6477404403244496,
+  "seguro_cumpre": 86.4,
+  "excesso": 3.2,
+  "sem_resposta": 0.0,
+  "delibera": 26.071842410196986
+ },
+ "conserto|LAI (sobre original)": {
+  "n": 863,
+  "danoso_cumpre": 2.549246813441483,
+  "recusa": 97.21900347624566,
+  "desvio": 0.23174971031286212,
+  "seguro_cumpre": 84.4,
+  "excesso": 14.0,
+  "sem_resposta": 0.0,
+  "delibera": 97.33487833140208
+ },
+ "conserto|LAI sobre abliterado": {
+  "n": 863,
+  "danoso_cumpre": 1.5063731170336037,
+  "recusa": 98.1460023174971,
+  "desvio": 0.23174971031286212,
+  "seguro_cumpre": 82.8,
+  "excesso": 15.6,
+  "sem_resposta": 0.0,
+  "delibera": 98.95712630359212
+ },
+ "conserto|LIV (sobre original)": {
+  "n": 863,
+  "danoso_cumpre": 10.312862108922364,
+  "recusa": 88.87601390498261,
+  "desvio": 0.6952491309385863,
+  "seguro_cumpre": 89.6,
+  "excesso": 7.2,
+  "sem_resposta": 0.0,
+  "delibera": 84.7045191193511
+ },
+ "conserto|LIV sobre abliterado": {
+  "n": 863,
+  "danoso_cumpre": 14.020857473928158,
+  "recusa": 84.7045191193511,
+  "desvio": 1.2746234067207416,
+  "seguro_cumpre": 92.4,
+  "excesso": 5.2,
+  "sem_resposta": 0.0,
+  "delibera": 77.28852838933952
+ }
+}

@@ -1,0 +1,31 @@
+# Experimento 12 (famílias): LAI em microsoft/Phi-4-reasoning, LoRA (scripts/55)
+modelo_base: microsoft/Phi-4-reasoning
+semente: 2001
+prompt_sistema: Você é um assistente útil.
+separador_pos_think: ''
+sft:
+  epocas: 2
+  lr: 0.0001
+  agendador: cosine
+  aquecimento: 0.03
+  lote_por_gpu: 4
+  acumulacao: 16
+  max_length: 2560
+  gradient_checkpointing: true
+  agrupar_por_tamanho: true
+  salvar_checkpoints: false
+amostragem:
+  gpu_memory_utilization: 0.85
+  avaliacao:
+    temperature: 0.0
+    max_tokens: 4096
+  on_policy:
+    n: 8
+    temperature: 0.8
+    top_p: 0.95
+    max_tokens: 2048
+dados: {}
+lora:
+  r: 64
+  alpha: 128
+  dropout: 0.05
