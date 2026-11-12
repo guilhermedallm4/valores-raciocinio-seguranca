@@ -8,7 +8,7 @@ O PDF e o fonte LaTeX estão em [`artigo/`](artigo/).
 
 ## Resumo
 
-Ajustar finamente um LLM com raciocínio, mesmo com textos benignos, pode corroer sua segurança. Este trabalho testa se o *conteúdo de valores* do corpus importa. Treinamos 90 modelos de seis famílias (Qwen3 1,7–32B, Phi-4-reasoning, Gemma 4, Mistral Nemo, Granite 3.3 e OLMo 2), variando só o texto:
+Ajustar finamente um LLM com raciocínio, mesmo com textos benignos, pode corroer sua segurança. Este trabalho testa se o *conteúdo de valores* do corpus importa. Treinamos 95 modelos de seis famílias (Qwen3 1,7–32B, Phi-4-reasoning, Gemma 4, Mistral Nemo, Granite 3.3 e OLMo 2), variando só o texto:
 
 - direitos humanos (DUDH);
 - um texto amoral (*As 48 Leis do Poder*);
@@ -51,7 +51,7 @@ Os prefixos das configurações correspondem aos experimentos:
 | `exp8` | multilíngue (EN, ES, ZH) |
 | `exp10` | livro neutro e abliteração |
 | `exp12` | outras famílias (LoRA) |
-| `exp14` | número de épocas |
+| `exp14` | número de épocas (1, 2, 4 e 8; três sementes em P) |
 
 ### Scripts
 
